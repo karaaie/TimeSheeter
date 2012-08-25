@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging", "Debugging\Debugging.csproj", "{0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSenderService", "EmailSenderService\EmailSenderService.csproj", "{EA03D9C5-B268-41E9-9C2B-D816758F3925}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7}.Release|Mixed Platforms.Build.0 = Release|x86
 		{0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7}.Release|x86.ActiveCfg = Release|x86
 		{0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7}.Release|x86.Build.0 = Release|x86
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{EA03D9C5-B268-41E9-9C2B-D816758F3925}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

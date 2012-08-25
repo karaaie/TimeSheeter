@@ -1,0 +1,24 @@
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\Debugging.exe.config
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\Debugging.exe
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\Debugging.pdb
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\ExcelService.dll
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\Messages.dll
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\MassTransit.dll
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\MassTransit.Transports.RabbitMq.dll
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\Magnum.dll
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\RabbitMQ.Client.dll
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\ExcelService.pdb
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\Messages.pdb
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\MassTransit.pdb
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\MassTransit.xml
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\MassTransit.Transports.RabbitMq.pdb
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\MassTransit.Transports.RabbitMq.xml
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\Magnum.pdb
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\Magnum.xml
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\bin\Debug\RabbitMQ.Client.xml
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\obj\x86\Debug\Debugging.exe
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Debugging\obj\x86\Debug\Debugging.pdb
+D:\Users\Kamil\Mina dokument\GitHub\TimeSheeter\TimeSheeter\Debugging\bin\Debug\Debugging.exe.config
+D:\Users\Kamil\Mina dokument\GitHub\TimeSheeter\TimeSheeter\Debugging\obj\x86\Debug\Debugging.exe
+D:\Users\Kamil\Mina dokument\GitHub\TimeSheeter\TimeSheeter\Debugging\obj\x86\Debug\Debugging.pdb

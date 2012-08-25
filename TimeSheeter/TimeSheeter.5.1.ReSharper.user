@@ -1,0 +1,245 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:WorkDayData.cs" caret="0" fromTop="0" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:TimeSheetData.cs" caret="341" fromTop="10" />
+      <File id="A0157F67-9A10-4B24-B705-393EEDFB00C3/d:Commands/f:ICreateExcelComand.cs" caret="14" fromTop="0" />
+      <File id="0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7/f:Program.cs" caret="1860" fromTop="39" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1911" fromTop="48" />
+      <File id="A0157F67-9A10-4B24-B705-393EEDFB00C3/d:Commands/f:ISendTimeSheet.cs" caret="68" fromTop="3" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSender.cs" caret="818" fromTop="24" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelService.cs" caret="303" fromTop="15" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSenderService.cs" caret="708" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1063" fromTop="27" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1599" fromTop="37" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1652" fromTop="37" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="256" fromTop="10" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1043" fromTop="23" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelService.cs" caret="535" fromTop="34" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="588" fromTop="15" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelService.cs" caret="535" fromTop="21" />
+      <File id="0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7/f:Program.cs" caret="673" fromTop="14" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1850" fromTop="15" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1606" fromTop="8" />
+      <File id="0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7/f:Program.cs" caret="2085" fromTop="43" />
+      <File id="0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7/f:Program.cs" caret="1811" fromTop="37" />
+      <File id="0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7/f:Program.cs" caret="1515" fromTop="30" />
+      <File id="0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7/f:Program.cs" caret="1217" fromTop="23" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1646" fromTop="36" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1152" fromTop="30" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="15" fromTop="0" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="704" fromTop="25" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="215" fromTop="8" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="1040" fromTop="29" />
+      <File id="1C1EC21C-9C89-4879-B2F2-FAD838EC0387/f:ExcelTimeSheetCreator.cs" caret="299" fromTop="12" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSenderService.cs" caret="747" fromTop="19" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSenderService.cs" caret="706" fromTop="24" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSender.cs" caret="109" fromTop="3" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSenderService.cs" caret="706" fromTop="13" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSender.cs" caret="1589" fromTop="21" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSender.cs" caret="1035" fromTop="28" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSenderService.cs" caret="336" fromTop="13" />
+      <File id="EA03D9C5-B268-41E9-9C2B-D816758F3925/f:EmailSenderService.cs" caret="613" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>D:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="16" />
+      <Item value="static" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="string" priority="6" />
+      <Item value="sbc" priority="5" />
+      <Item value="subs" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="ICreateExcelComand`0" priority="0" />
+      <Item value="ExcelTimeSheetCreator`0" priority="4" />
+      <Item value="DateTime`0" priority="3" />
+      <Item value="WorkDayData`0" priority="7" />
+      <Item value="timeSheetData" priority="7" />
+      <Item value="Bus`0" priority="0" />
+      <Item value="private" priority="8" />
+      <Item value="TimeSheetData`0" priority="3" />
+      <Item value="_timeSheetData" priority="4" />
+      <Item value="using" priority="1" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="Office" priority="0" />
+      <Item value="Interop" priority="0" />
+      <Item value="Excel" priority="0" />
+      <Item value="Workbook`0" priority="0" />
+      <Item value="var" priority="8" />
+      <Item value="ApplicationClass`0" priority="0" />
+      <Item value="excelApplication" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="excelWorkBook" priority="0" />
+      <Item value="Worksheet`0" priority="4" />
+      <Item value="GetExcelTemplate`0" priority="0" />
+      <Item value="excelWorkbook" priority="0" />
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="GetTheMainWorkSheet`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="worksheet" priority="6" />
+      <Item value="emptyWorksheet" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="workDayData" priority="6" />
+      <Item value="PutDayDataInToRow`0" priority="0" />
+      <Item value="rowNumber" priority="4" />
+      <Item value="loadedWorksheet" priority="0" />
+      <Item value="creator" priority="1" />
+      <Item value="new" priority="17" />
+      <Item value="ExcelTimeSheetCreator" priority="0" />
+      <Item value="data" priority="0" />
+      <Item value="WorkDayData" priority="1" />
+      <Item value="TimeSheetData" priority="0" />
+      <Item value="DayStarted" priority="0" />
+      <Item value="DateTime" priority="3" />
+      <Item value="DayEnded" priority="0" />
+      <Item value="BreakStarted" priority="0" />
+      <Item value="BreakEnded" priority="0" />
+      <Item value="location" priority="0" />
+      <Item value="Friday" priority="0" />
+      <Item value="Thursday" priority="0" />
+      <Item value="Wednesday" priority="0" />
+      <Item value="Application`0" priority="1" />
+      <Item value="ResourceManager`0" priority="1" />
+      <Item value="this" priority="0" />
+      <Item value="_resourceManager" priority="0" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="ctor" priority="1" />
+      <Item value="_mailClient" priority="1" />
+      <Item value="SmtpClient" priority="0" />
+      <Item value="Host" priority="0" />
+      <Item value="Port" priority="0" />
+      <Item value="EnableSsl" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="DeliveryMethod" priority="0" />
+      <Item value="SmtpDeliveryMethod`0" priority="0" />
+      <Item value="UseDefaultCredentials" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="Credentials" priority="0" />
+      <Item value="MailAddress`0" priority="3" />
+      <Item value="MailAddress" priority="1" />
+      <Item value="_fromAdress" priority="1" />
+      <Item value="_password" priority="0" />
+      <Item value="_toAdress" priority="1" />
+      <Item value="message" priority="3" />
+      <Item value="Attachment`0" priority="0" />
+      <Item value="attatchment" priority="0" />
+      <Item value="EmailSender`0" priority="0" />
+      <Item value="_emailSender" priority="0" />
+      <Item value="EmailSender" priority="0" />
+      <Item value="handler" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MassTransit.Bus">
+      <Item value="Initialize`0" priority="1" />
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.BusConfigurators.ServiceBusConfigurator">
+      <Item value="UseRabbitMqRouting`0" priority="0" />
+      <Item value="ReceiveFrom`0" priority="1" />
+      <Item value="Subscribe`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.SubscriptionConfigurators.SubscriptionBusServiceConfigurator">
+      <Item value="Handler`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MassTransit.IServiceBus">
+      <Item value="Publish`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.ApplicationClass">
+      <Item value="Workbooks" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Workbooks">
+      <Item value="Open`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Workbook">
+      <Item value="Worksheets" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Sheets">
+      <Item value="get_Item`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Worksheet">
+      <Item value="get_Range`0" priority="0" />
+      <Item value="Range" priority="1" />
+      <Item value="SaveAs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Range">
+      <Item value="set_Value`0" priority="0" />
+      <Item value="Value2" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExcelService.TimeSheetData">
+      <Item value="Monday" priority="4" />
+      <Item value="Tuesday" priority="1" />
+      <Item value="Wednesday" priority="0" />
+      <Item value="Thursday" priority="0" />
+      <Item value="Friday" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExcelService.WorkDayData">
+      <Item value="DayStarted" priority="0" />
+      <Item value="DayEnded" priority="0" />
+      <Item value="BreakStart" priority="0" />
+      <Item value="BreakEnded" priority="1" />
+      <Item value="BreakStarted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="TimeOfDay" priority="0" />
+      <Item value="Subtract`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExcelService.ExcelTimeSheetCreator">
+      <Item value="LoadDataIntoExcelTemplateAndSaveToLocation`0" priority="0" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="ToString`0" priority="4" />
+      <Item value="Minutes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Resources.ResourceManager">
+      <Item value="GetString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Assembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Mail.SmtpDeliveryMethod">
+      <Item value="Network" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.MailAddress">
+      <Item value="Address" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.MailMessage">
+      <Item value="Attachments" priority="0" />
+      <Item value="Body" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.AttachmentCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.SmtpClient">
+      <Item value="Send`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

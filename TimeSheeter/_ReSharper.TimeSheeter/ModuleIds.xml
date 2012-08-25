@@ -1,0 +1,27 @@
+<Modules>
+  <Module PersistentId="1C1EC21C-9C89-4879-B2F2-FAD838EC0387" ModuleId="ExcelService" />
+  <Module PersistentId="A0157F67-9A10-4B24-B705-393EEDFB00C3" ModuleId="Messages" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System" />
+  <Module PersistentId="0AA817F4-1FAC-4832-AF5D-5BE82B89E7F7" ModuleId="Debugging" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="Magnum, Version=2.0.1.0, Culture=neutral" ModuleId="Magnum" />
+  <Module PersistentId="MassTransit, Version=2.6.2.0, Culture=neutral" ModuleId="MassTransit" />
+  <Module PersistentId="MassTransit.Transports.Msmq, Version=2.6.2.0, Culture=neutral" ModuleId="MassTransit.Transports.Msmq" />
+  <Module PersistentId="MassTransit.Transports.RabbitMq, Version=2.6.2.0, Culture=neutral" ModuleId="MassTransit.Transports.RabbitMq" />
+  <Module PersistentId="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ModuleId="Microsoft.Office.Interop.Excel" />
+  <Module PersistentId="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.Office.Tools.Excel" />
+  <Module PersistentId="Microsoft.Office.Tools.Excel.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.Office.Tools.Excel.v4.0.Utilities" />
+  <Module PersistentId="RabbitMQ.Client, Version=2.8.4.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce" ModuleId="RabbitMQ.Client" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System_1" />
+  <Module PersistentId="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core" />
+  <Module PersistentId="System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml.Linq" />
+  <Module PersistentId="System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data.DataSetExtensions" />
+  <Module PersistentId="Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.CSharp" />
+  <Module PersistentId="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data" />
+  <Module PersistentId="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml" />
+  <Module PersistentId="JetBrains.Annotations, Version=5.1.1727.12, Culture=neutral, PublicKeyToken=1010a0d8d6380325" ModuleId="JetBrains.Annotations" />
+  <Module PersistentId="Messages, Version=1.0.0.0, Culture=neutral" ModuleId="Messages_1" />
+  <Module PersistentId="ExcelService, Version=1.0.0.0, Culture=neutral" ModuleId="ExcelService_1" />
+  <Module PersistentId="Debugging, Version=1.0.0.0, Culture=neutral" ModuleId="Debugging_1" />
+  <Module PersistentId="EA03D9C5-B268-41E9-9C2B-D816758F3925" ModuleId="EmailSenderService" />
+</Modules>

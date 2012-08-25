@@ -1,0 +1,5 @@
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Messages\bin\Debug\Messages.dll
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Messages\bin\Debug\Messages.pdb
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Messages\obj\Debug\ResolveAssemblyReference.cache
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Messages\obj\Debug\Messages.dll
+d:\users\kamil\mina dokument\visual studio 2010\Projects\TimeSheeter\Messages\obj\Debug\Messages.pdb
